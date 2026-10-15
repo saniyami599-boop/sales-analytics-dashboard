@@ -40,3 +40,12 @@ BE CSE - Data Science Student
 ## Power BI Dashboard Preview
 
 ![Sales Analytics Dashboard](sales_dashboard.png)
+## Project Workflow
+
+1. **Data Collection:** Load the Online Retail dataset.
+2. **Data Cleaning:** Remove missing values, duplicates, invalid quantities, and invalid prices.
+3. **Data Analysis:** Calculate revenue, identify top-selling products, and analyze monthly sales.
+4. **SQL Analysis:** Store and query sales data using SQLite.
+5. **Visualization:** Generate charts using Python and build an interactive Power BI dashboard.
+6. **Business Insights:** Explore revenue trends, product performance, and country-wise sales using dashboard filters.
+7.
