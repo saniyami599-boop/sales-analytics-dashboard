@@ -37,3 +37,6 @@ See `sales_dashboard.png` for a screenshot of the dashboard.
 
 ## Author
 BE CSE - Data Science Student
+## Power BI Dashboard Preview
+
+![Sales Analytics Dashboard](sales_dashboard.png)
